@@ -1,5 +1,5 @@
 
-Hi!
+Hi! 👋
 
 Thanks for visiting my profile!
 
