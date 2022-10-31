@@ -11,3 +11,4 @@ Nice to meet you!
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=regularenthropy&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=regularenthropy&show_icons=true&theme=transparent)
