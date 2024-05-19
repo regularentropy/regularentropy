@@ -8,4 +8,4 @@ I am not a programmer, but I occasionally write some stuff for my university.
 
 Nice to meet you!
 
-<img src="https://myreadme.vercel.app/api/embed/regularenthropy?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
+<img src="https://myreadme.vercel.app/api/embed/regularentropy?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
