@@ -7,7 +7,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=regularentropy&theme=default&hide_border=true&include_all_commits=true&count_private=true" /><br/>
 
-  ---
 <div align="center">
 
 ## Languages:
