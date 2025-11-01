@@ -3,7 +3,7 @@
   <p>Welcome to my profile.</p>
   <p>I build software to simplify my daily tasks.  </p>
   <p>Check out the repositories if you're interested.</p>
-  <p>Nice to meet you.</p>
+  <p>Nice to meet you!</p>
 </div>
 
 <div align="center">
