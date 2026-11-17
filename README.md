@@ -2,7 +2,7 @@
 
 ### Hi, I'm reg (regularentropy) 👋
 
-I'm a C# developer writing the Windows desktop software I needed but couldn't find.
+I'm a C# developer writing desktop applications I needed but couldn't find.
 
 <br>
 
